@@ -20,6 +20,7 @@ You can directly run and experiment with the model in Google Colab:
 
 The Colab notebook allows you to input an image and ask MedGemma to describe it. Here's an example using an image of a polyp:
 
+
 **User Input:**
 You're right, adding some Markdown formatting will make it much cleaner and easier to read on GitHub. Here's the revised README.md content with formatting applied:
 
@@ -47,7 +48,7 @@ You can directly run and experiment with the model in Google Colab:
 
 The Colab notebook allows you to input an image and ask MedGemma to describe it. Here's an example using an image of a polyp:
 
-
+![MedGemma example output describing a polyp](exampleoutput.png)
 
 **User Input:**
 Describe the characteristics of this polyp. For example, its size, shape, color, surface, and any notable features.
@@ -66,3 +67,13 @@ Notable Features:
   • Size: The polyp appears to be approximately 3 cm in diameter.
 
 Disclaimer: This is a visual assessment based on a single image. A definitive diagnosis requires a complete endoscopic examination, including biopsy and histological analysis.
+```
+
+## 🔗 Sources & Key Links
+
+Here are the primary sources and relevant links for this example:
+
+* **MedGemma 4B-it Model Card (Hugging Face):** [https://huggingface.co/google/medgemma-4b-it](https://huggingface.co/google/medgemma-4b-it)
+* **Gemma 3 4B-it Model Card (Hugging Face):** [https://huggingface.co/google/gemma-3-4b-it](https://huggingface.co/google/gemma-3-4b-it)
+* **Kvasir Dataset:** [https://datasets.simula.no/kvasir/](https://datasets.simula.no/kvasir/)
+* **Colab Notebook for this example:** [https://colab.research.google.com/drive/14cP7gnmDlefjQ8bdE528uDwAjM56Ct_H](https://colab.research.google.com/drive/14cP7gnmDlefjQ8bdE528uDwAjM56Ct_H)
