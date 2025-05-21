@@ -2,35 +2,7 @@
 
 Exploring Google's MedGemma 4B with a Colab Notebook 🩺
 
-This repository contains a Google Colab notebook for a quick exploration of **Google's MedGemma 4B instruction-tuned model**. The notebook demonstrates how to use the model for describing medical images, using a sample polyp image from the Kvasir dataset.
-
-MedGemma is a new family of open-source models from Google, derived from Gemma 3, and specifically adapted for medical text and image comprehension.
-
----
-
-## 🚀 Get Started
-
-You can directly run and experiment with the model in Google Colab:
-
-* **Open the Colab Notebook:** [https://colab.research.google.com/drive/14cP7gnmDlefjQ8bdE528uDwAjM56Ct_H](https://colab.research.google.com/drive/14cP7gnmDlefjQ8bdE528uDwAjM56Ct_H)
-
----
-
-## 🖼️ Example Output
-
-The Colab notebook allows you to input an image and ask MedGemma to describe it. Here's an example using an image of a polyp:
-
-
-**User Input:**
-You're right, adding some Markdown formatting will make it much cleaner and easier to read on GitHub. Here's the revised README.md content with formatting applied:
-
-Markdown
-
-# medgemma-exploration
-
-Exploring Google's MedGemma 4B with a Colab Notebook 🩺
-
-This repository contains a Google Colab notebook for a quick exploration of **Google's MedGemma 4B instruction-tuned model**. The notebook demonstrates how to use the model for describing medical images, using a sample polyp image from the Kvasir dataset.
+This repository contains a Google Colab notebook for a quick exploration of **Google's MedGemma 4B instruction-tuned model**. The notebook demonstrates how to use the model for describing medical images, using a sample polyp image from the Kvasir dataset. It also demonstrates the same example with Gemma3 for comparison.
 
 MedGemma is a new family of open-source models from Google, derived from Gemma 3, and specifically adapted for medical text and image comprehension.
 
